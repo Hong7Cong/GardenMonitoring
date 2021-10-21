@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=AT long bus (13.3 x 4.2 inches) Member=J?
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Component: Designator=JDC(DC-IN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=JDC-1
+Added Pin To Net: NetName=GND Pin=JDC-3
+Added Member To Class: ClassName=AT long bus (13.3 x 4.2 inches) Member=Component JDC Jac DC

@@ -1,0 +1,81 @@
+Removed Member From Class: ClassName=AT long bus (13.3 x 4.2 inches) Member=U?
+Change Component Designator: OldDesignator=DS? NewDesignator=DS1
+Change Component Designator: OldDesignator=DS? NewDesignator=DS2
+Change Component Designator: OldDesignator=DS? NewDesignator=DS3
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Change Component Designator: OldDesignator=IC? NewDesignator=IC3
+Change Component Designator: OldDesignator=IC? NewDesignator=IC4
+Added Pin To Net: NetName=VCC Pin=DS1-3
+Added Pin To Net: NetName=VCC Pin=DS2-3
+Added Pin To Net: NetName=VCC Pin=DS3-3
+Change Net Name : Old Net Name=NetDS?_1 New Net Name=NetDS3_1
+Change Net Name : Old Net Name=NetDS?_2 New Net Name=NetDS3_2
+Change Net Name : Old Net Name=NetDS?_4 New Net Name=NetDS3_4
+Change Net Name : Old Net Name=NetDS?_6 New Net Name=NetDS3_6
+Change Net Name : Old Net Name=NetDS?_7 New Net Name=NetDS3_7
+Change Net Name : Old Net Name=NetDS?_9 New Net Name=NetDS3_9
+Change Net Name : Old Net Name=NetDS?_10 New Net Name=NetDS3_10
+Added Pin To Net: NetName=ChucA Pin=IC1-37
+Added Net: Name=ChucA
+Added Pin To Net: NetName=ChucB Pin=IC1-38
+Added Net: Name=ChucB
+Added Pin To Net: NetName=ChucC Pin=IC1-39
+Added Net: Name=ChucC
+Added Pin To Net: NetName=ChucD Pin=IC1-40
+Added Net: Name=ChucD
+Added Pin To Net: NetName=DonviA Pin=IC1-33
+Added Net: Name=DonviA
+Added Pin To Net: NetName=DonviB Pin=IC1-34
+Added Net: Name=DonviB
+Added Pin To Net: NetName=DonviC Pin=IC1-35
+Added Net: Name=DonviC
+Added Pin To Net: NetName=DonviD Pin=IC1-36
+Added Net: Name=DonviD
+Added Pin To Net: NetName=NetDS1_1 Pin=DS1-1
+Added Pin To Net: NetName=NetDS1_1 Pin=IC2-9
+Added Net: Name=NetDS1_1
+Added Pin To Net: NetName=NetDS1_2 Pin=DS1-2
+Added Pin To Net: NetName=NetDS1_2 Pin=IC2-10
+Added Net: Name=NetDS1_2
+Added Pin To Net: NetName=NetDS1_4 Pin=DS1-4
+Added Pin To Net: NetName=NetDS1_4 Pin=IC2-11
+Added Net: Name=NetDS1_4
+Added Pin To Net: NetName=NetDS1_6 Pin=DS1-6
+Added Pin To Net: NetName=NetDS1_6 Pin=IC2-12
+Added Net: Name=NetDS1_6
+Added Pin To Net: NetName=NetDS1_7 Pin=DS1-7
+Added Pin To Net: NetName=NetDS1_7 Pin=IC2-13
+Added Net: Name=NetDS1_7
+Added Pin To Net: NetName=NetDS1_9 Pin=DS1-9
+Added Pin To Net: NetName=NetDS1_9 Pin=IC2-15
+Added Net: Name=NetDS1_9
+Added Pin To Net: NetName=NetDS1_10 Pin=DS1-10
+Added Pin To Net: NetName=NetDS1_10 Pin=IC2-14
+Added Net: Name=NetDS1_10
+Added Pin To Net: NetName=NetDS2_1 Pin=DS2-1
+Added Pin To Net: NetName=NetDS2_1 Pin=IC3-9
+Added Net: Name=NetDS2_1
+Added Pin To Net: NetName=NetDS2_2 Pin=DS2-2
+Added Pin To Net: NetName=NetDS2_2 Pin=IC3-10
+Added Net: Name=NetDS2_2
+Added Pin To Net: NetName=NetDS2_4 Pin=DS2-4
+Added Pin To Net: NetName=NetDS2_4 Pin=IC3-11
+Added Net: Name=NetDS2_4
+Added Pin To Net: NetName=NetDS2_6 Pin=DS2-6
+Added Pin To Net: NetName=NetDS2_6 Pin=IC3-12
+Added Net: Name=NetDS2_6
+Added Pin To Net: NetName=NetDS2_7 Pin=DS2-7
+Added Pin To Net: NetName=NetDS2_7 Pin=IC3-13
+Added Net: Name=NetDS2_7
+Added Pin To Net: NetName=NetDS2_9 Pin=DS2-9
+Added Pin To Net: NetName=NetDS2_9 Pin=IC3-15
+Added Net: Name=NetDS2_9
+Added Pin To Net: NetName=NetDS2_10 Pin=DS2-10
+Added Pin To Net: NetName=NetDS2_10 Pin=IC3-14
+Added Net: Name=NetDS2_10
+Added Member To Class: ClassName=AT long bus (13.3 x 4.2 inches) Member=Component DS1 7SEG
+Added Member To Class: ClassName=AT long bus (13.3 x 4.2 inches) Member=Component DS2 7SEG
+Added Member To Class: ClassName=AT long bus (13.3 x 4.2 inches) Member=Component IC1 16F877A
+Added Member To Class: ClassName=AT long bus (13.3 x 4.2 inches) Member=Component IC2 7447
+Added Member To Class: ClassName=AT long bus (13.3 x 4.2 inches) Member=Component IC3 7447
